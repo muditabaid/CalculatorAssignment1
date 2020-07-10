@@ -1,3 +1,4 @@
+/*Hello trial*/
 pipeline {
   /* The environment specifies the credentials required to push my image to dockerhub */
   environment {
